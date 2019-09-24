@@ -1,0 +1,6 @@
+module Pods_market {
+  umbrella header "Pods-market-umbrella.h"
+
+  export *
+  module * { export * }
+}

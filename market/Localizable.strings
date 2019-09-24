@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  market
+
+  Created by Cesar Julián Azuero Garavito on 9/23/19.
+  Copyright © 2019 Prueba. All rights reserved.
+*/
+
+/***************  URLS  *****************/
+"url_productos" = "https://api.bestbuy.com/v1/products";
+
+/***************  API KEYS  *****************/
+"api_key_best_buy" = "7wn9O0cmplFbsv0onaGEEv7C";
+
+/***************  TITULOS VIEW CONTROLLERS  *****************/
+"titulo_main" = "Articulos";
+"titulo_carrito" = "Carrito";
+
+/***************  TITULOS ALERTAS  *****************/
+"titulo_alerta_lo_sentimos" = "Lo sentimos!";
+"titulo_alerta_filtrar_por" = "Filtrar por";
+"titulo_alerta_confirmar" = "Confirmar";
+
+/***************  LABELS  *****************/
+"label_musica" = "Musica";
+"label_juegos" = "Juegos";
+"label_peliculas" = "Peliculas";
+"label_todos" = "Todos";
+"label_cantidad_items" = "Cantidad de items:";
+"label_total" = "Total:";
+"label_no_items" = "No hay items en el carrito";
+
+/*************** TEXTOS BOTONES  *****************/
+"label_boton_cerrar" = "Cerrar";
+"label_boton_filtrar" = "Filtrar";
+"label_boton_carrito" = "Carrito";
+"label_boton_si" = "Si";
+"label_boton_no" = "No";
+
+/***************  MENSAJES ALERTAS  *****************/
+"mensaje_error_carga_inicio" = "Ha ocurrido un error al cargar el catálogo de productos, intente de nuevo por favor.";
+"mensaje_agregar_carrito" = "¿Desea agregar este artículo al carrito de compras?";
